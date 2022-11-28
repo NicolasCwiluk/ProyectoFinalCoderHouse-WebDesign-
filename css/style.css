@@ -1,0 +1,23 @@
+.logonav {
+  width: 10rem;
+  height: 10rem;
+}
+
+.navbar-nav {
+  margin-left: auto !important;
+}
+
+.navbar,
+.colorfooter,
+.card-body,
+.card-footer {
+  background-color: #f4ece0 !important;
+}
+
+.colorfondo {
+  background-color: #f4ece09d !important;
+}
+
+.img-cover {
+  object-fit: cover;
+}
