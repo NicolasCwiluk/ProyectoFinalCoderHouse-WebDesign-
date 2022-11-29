@@ -21,3 +21,16 @@
 .img-cover {
   object-fit: cover;
 }
+
+.card,
+.gallery-photo:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card,
+.gallery-photo {
+  border-radius: 8px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  transition: all 500ms;
+}
